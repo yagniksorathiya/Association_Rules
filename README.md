@@ -10,7 +10,7 @@ Prepare rules for the all the data sets
 
 3) Visulize the obtained rules using different plots
 
-# Association Rules Mining via Apriori Algorithm in Python
+# ➳ Association Rules Mining via Apriori Algorithm in Python
 
 **Association Rule learning** is a rule-based machine learning technique which is used to find interesting relationships and associations hidden in large data-sets. This rule shows how frequently an itemset occurs in a dataset or transaction.
 
